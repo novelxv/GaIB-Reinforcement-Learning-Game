@@ -37,6 +37,10 @@ python src/main_cli.py
 
 ![GUI](assets/gui.png)
 
+<img src="assets/demo.gif" alt="GIF Demo" width="798" height="342">
+
+<img src="assets/demoo.gif" alt="GIF Demo 2" width="798" height="342">
+
 ## Requirements
 
 - Python 3.x
