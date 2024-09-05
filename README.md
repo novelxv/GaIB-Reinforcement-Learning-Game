@@ -5,6 +5,7 @@ This repository contains the submission for the Lab Assistant Selection for the 
 ## Table of Contents
 - [Description](#description)
 - [Usage](#usage)
+- [Program Display](#program-display)
 - [Requirements](#requirements)
 - [Algorithms Implemented](#algorithms-implemented)
 - [Project Structure](#project-structure)
@@ -31,6 +32,10 @@ To run the game in the command-line interface (CLI), execute the following comma
 ```bash
 python src/main_cli.py
 ```
+
+## Program Display
+
+![GUI](assets/gui.png)
 
 ## Requirements
 
